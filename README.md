@@ -1,4 +1,4 @@
-** YOU CAN ACCESS THE MODEL LIVE: https://diabetes-prediction-paqq.onrender.com **
+** YOU CAN ACCESS THE MODEL LIVE: https://diabetes-prediction-paqq.onrender.com/predictdata **
 
 # lab-flask
 
